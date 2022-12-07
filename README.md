@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seojongfeel)](https://solved.ac/seojongfeel)
 <br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={seojongfeel})](https://solved.ac/{seojongfeel})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=seojongfeel)](https://solved.ac/seojongfeel)
+
+
+<img src="http://mazandi.herokuapp.com/api?handle=seojongfeel&theme=warm"/>
